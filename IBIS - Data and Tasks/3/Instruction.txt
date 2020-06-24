@@ -1,0 +1,5 @@
+1. Install R and R studio
+
+2. If necessary, take a look at https://www.datacamp.com/community/tutorials/tidyverse-tutorial-r or similar tutorial.
+
+3. Open "Tasks.R" and write code below every task.
